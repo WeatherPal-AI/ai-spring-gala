@@ -2,7 +2,7 @@
 
 ### 3个人 + AI Agent + 一套开放协议 = 一种新的内容生产范式
 
-> 央视春晚：上万人，筹备半年。我们：AI Agent + 开放协议，10天。
+> 央视春晚：上万人，筹备半年。AI-Native：AI Agent + 开放协议，10天。
 
 [English Version](./README_EN.md)
 
