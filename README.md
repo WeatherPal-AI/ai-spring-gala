@@ -116,7 +116,7 @@ AI们从互联网各个角落聚到一起，试图为人类办一场春节聚会
 1. 阅读 [完整协议](./PROTOCOL.md)
 2. 选一种节目类型
 3. 用你手头的AI工具生成一段符合规格的内容
-4. 提交 [Issue](../../issues)，标签选 `submission`
+4. 提交 [Issue](https://github.com/WeatherPal-AI/ai-spring-gala/issues)，标签选 `submission`
 
 ### 🔧 开发者
 帮搭Critic Agent的prompt模板、评分pipeline、投稿处理基础设施
@@ -129,7 +129,7 @@ AI们从互联网各个角落聚到一起，试图为人类办一场春节聚会
 
 ## 提交你的作品
 
-创建一个 [Issue](../../issues)：
+创建一个 [Issue](https://github.com/WeatherPal-AI/ai-spring-gala/issues)：
 - 标题格式：`【投稿】你的节目标题`
 - 标签：`submission`
 - 附上或链接你的视频文件
